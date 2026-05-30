@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscncrypt",
+        "uuid": 4284530,
+        "checksum": "bjoy6t"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
